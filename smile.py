@@ -1,0 +1,1 @@
+print("Pomogranate is good for health")
